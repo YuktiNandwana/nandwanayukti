@@ -21,7 +21,7 @@ I am a passionate developer who loves **Open Source**, **debugging code**, and s
 - 🔭 I’m currently working on a **Smart Parking System** & **Checkstyle Contributions**.
 - 🌱 I’m currently learning **React.js** and **Advanced DSA**.
 - 💬 Ask me about **Java, Open Source, and Debugging**.
-- ⚡ **Fun Fact:** Debugging code gives me an adrenaline rush! 🧩
+- ⚡ **Fun Fact:** Debugging code gives me an adrenaline rush!  🧩
 
 ---
 
